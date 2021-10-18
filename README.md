@@ -2,6 +2,8 @@
   It further shows the line and bar charts of the cases
   
   This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  
+  Live site: https://covidtrackersite.netlify.app/
 
 ## Available Scripts
 
